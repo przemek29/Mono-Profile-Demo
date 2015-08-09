@@ -1,0 +1,8 @@
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\MonoProfileDemo\MonoProfileDemo\bin\Debug\MonoProfileDemo.exe.config
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\MonoProfileDemo\MonoProfileDemo\obj\x86\Debug\MonoProfileDemo.Properties.Resources.resources
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\MonoProfileDemo\MonoProfileDemo\obj\x86\Debug\MonoProfileDemo.csproj.GenerateResource.Cache
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\MonoProfileDemo\MonoProfileDemo\bin\Debug\MonoProfileDemo.exe
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\MonoProfileDemo\MonoProfileDemo\bin\Debug\MonoProfileDemo.pdb
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\MonoProfileDemo\MonoProfileDemo\obj\x86\Debug\MonoProfileDemo.exe
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\MonoProfileDemo\MonoProfileDemo\obj\x86\Debug\MonoProfileDemo.pdb
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\MonoProfileDemo\MonoProfileDemo\obj\x86\Debug\MonoProfileDemo.Form1.resources
